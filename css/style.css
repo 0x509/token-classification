@@ -313,6 +313,15 @@ textarea {
   padding: 10px;
   margin-bottom: 15px;
   box-shadow: 3px 3px 2px 0px #E2E2E2;
+  vertical-align: top;
+  padding-top: 5px;
+  border-radius: 0 0 5px 5px;
+}
+
+.tok.plain {
+  background: #eaeaea !important;
+  padding: 5px;
+  border-radius: 0;
 }
 
 .tok:first-child {
